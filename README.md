@@ -2,4 +2,4 @@
 
 This repo contains everything you need to know about CVE-2020-12828
 
-![ZombieVPN](./zombievpn.png "ZombieVPN")
+![ZombieVPN](./ZombieVPN.png "ZombieVPN")
